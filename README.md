@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @jonasgilje
-- 👀 I’m interested in languages
+- 👷 Engineer at Sopra Steria
+- 🏐 National volleyball referee
+- 👀 I’m interested in languages 🇳🇱🇪🇸🇸🇪🇩🇰
 - 🌱 I’m currently learning APL
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m looking to collaborate on school and work projects
 - 📫 How to reach me ...
 
 <!---
