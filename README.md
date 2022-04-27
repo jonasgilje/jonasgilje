@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @jonasgilje
 - 👷 Engineer at Sopra Steria
 - 🏐 National volleyball referee
-- 👀 I’m interested in languages 🇳🇱🇪🇸🇸🇪🇩🇰
-- 🌱 I’m currently learning APL
-- 💞️ I’m looking to collaborate on school and work projects
+- 👀 Aspiring polyglot
 - 📫 How to reach me ...
 
 <!---
